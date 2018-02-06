@@ -469,8 +469,7 @@
 	    <p style="text-align: left;"><i style="font-size:20px; color:#5cb85c;" class="zmdi zmdi-check-circle"></i> Showcase your talent to people around the world.</p>
 	  </div>
 	</div>
+	<div style="margin-bottom: 50px;">&nbsp;</div>
 </div>
-<div>
-	<br /><br /><br />
-</div>
+<?php include('component/chat.php'); ?>
 <?php include('component/footer.php'); ?>

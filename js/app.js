@@ -53,3 +53,12 @@ $(document).ready(function(){
           $(this).children("img").css("top", "0px");
     });
 });
+
+$('#iconified').on('keyup', function() {
+    var input = $(this);
+    if(input.val().length === 0) {
+        input.addClass('search');
+    } else {
+        input.removeClass('search');
+    }
+});
