@@ -10,7 +10,7 @@
 		</ol>
 	</div>
 	<div class="panel-body">
-		<div><em>- Please tell us, what skill do you can? &nbsp;&nbsp;&nbsp; <a href="#">No, I just want to Hire Freelancer.</a></em></div>
+		<div><em>Please tell us, what skill do you can?</em></div>
 	    <hr />
 
 	    <form class="form-horizontal">
@@ -56,10 +56,21 @@
 				  	<div class="form-group">
 					    <label for="" class="col-sm-3 control-label">Price Per Hour</label>
 					    <div class="col-sm-9">
-					      	<div class="input-group">
-							  <span class="input-group-addon">$</span>
-							  <input type="number" class="form-control" min="0" max="5000" step="any" placeholder="Charge is negotiable">
-							</div>
+					      	<div class="row">
+						      	<div class="col-md-4">
+						      		<select class="form-control" id="currency">
+						      			<option value="USD">USD</option>
+						      			<option value="KHR">KHR</option>
+						      		</select>
+						      	</div>
+						      	<div class="col-md-8">
+						      		<select class="form-control" id="curency_range">
+						      			<option value="1">5 - 10</option>
+						      			<option value="2">10 - 50</option>
+						      			<option value="3">50 - 100</option>
+						      		</select>
+						      	</div>
+						    </div>
 					    </div>
 				  	</div>
 
@@ -502,4 +513,40 @@
   </div>
 </div>
 
-<?php include('component/footer.php'); ?>
+<?php include('component/footer_.php'); ?>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(document).on('change', '#currency', function(e) {
+			e.preventDefault();
+
+			var currency = $(this).val();
+			var url = 'component/currency_range_'+currency.toLowerCase()+'.php';
+
+		    $.ajax({
+		        type: "GET",
+		        url: url,
+		        data: {"currency":currency},
+		        cache: false,
+		        beforeSend: function () {
+		        	// before send
+		        },
+		        complete: function () {
+		          	// completed
+		        },
+		        success: function (html) {
+		          $('#curency_range').html(html).show();
+		        },
+		        error: function (request, status, error) {
+		            var msg = '';
+		            msg += '<div class="alert alert-warning" id="warning">';
+		            msg += '<button type="button" class="close" data-dismiss="alert">&times;</button>';
+		                msg += '<b><i class="fa fa-info-circle"></i> '+error+' </b><br />';
+		            msg += '</div>';
+		            $('#curency_range').html(msg).show();
+		        }
+		    });
+
+		});
+	});
+</script>
+<?php include('component/footer_tag.php'); ?>

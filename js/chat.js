@@ -1,9 +1,13 @@
 
-if ($(window).width() < 960) {
-    $('.icon_minim').parents('.panel').find('.panel-body').slideUp();
-    $('.icon_minim').addClass('panel-collapsed');
-    $('.icon_minim').removeClass('glyphicon-minus').addClass('glyphicon-triangle-top');
-}
+// if ($(window).width() < 960) {
+//     $('.icon_minim').parents('.panel').find('.panel-body').slideUp();
+//     $('.icon_minim').addClass('panel-collapsed');
+//     $('.icon_minim').removeClass('glyphicon-minus').addClass('glyphicon-triangle-top');
+// }
+
+$('.icon_minim').parents('.panel').find('.panel-body').slideUp();
+$('.icon_minim').addClass('panel-collapsed');
+$('.icon_minim').removeClass('glyphicon-minus').addClass('glyphicon-triangle-top');
 
 $(document).on('click', '.panel-heading span.icon_minim', function (e) {
     var $this = $(this);

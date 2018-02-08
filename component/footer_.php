@@ -3,5 +3,3 @@
 <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 <script src="js/app.js"></script>
 <script src="js/chat.js"></script>
-</body>
-</html>

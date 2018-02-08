@@ -25,7 +25,7 @@
 				</ul>
 			</div>
 			<div class="col-md-3 text-right" style="margin-top:3px; margin-bottom:3px;">
-				<button class="btn btn-sm btn-success">Post a Project</button>
+				<a href="post_project_form.php" class="btn btn-sm btn-success">Post a Project</a>
 				<button class="btn btn-sm btn-success">Upload Showcase</button>
 			</div>
 		</div>
