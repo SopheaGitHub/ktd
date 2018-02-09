@@ -187,3 +187,17 @@ ol, ul {
     background-color: #dff0d8;
     border-color: #337ab7;
 }
+
+.alert-xs {
+  padding: 5px; 
+  margin-bottom: 0px;
+}
+
+.box-text {
+  padding: 9.5px; margin: 0 0 10px;     font-size: 13px;
+  line-height: 1.42857143;color: #333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f8fa;
+  border-radius: 4px;
+}

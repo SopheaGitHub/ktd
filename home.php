@@ -9,7 +9,7 @@
 				    <li class="dropdown">
 				        <a href="#" data-toggle="dropdown" class="dropdown-toggle"> Hire Freelancers <span class="glyphicon glyphicon-triangle-bottom"></span></a>
 				        <ul class="dropdown-menu">
-				            <li><a href="skill.php">Post a Project</a></li>
+				            <li><a href="post_project_form.php">Post a Project</a></li>
 				            <li class="divider"></li>
 				            <li><a href="#">Showcase</a></li>
 				        </ul>
@@ -151,7 +151,7 @@
 		<form>
 		  	<div class="row">
 		  		<div class="col-md-4">
-		  			<span><h4>Available Projects</h4></span><span><a href="#">See All</a></span>
+		  			<span><h4>Available Projects</h4></span><span><a href="#">See All Available</a></span> | <span><a href="#">See All Posted</a></span>
 		  		</div>
 		  		<div class="col-md-8">
 		  			<div class="form-group">
@@ -172,56 +172,24 @@
 		    </a>
 		  </div>
 		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
+		    <div class="row">
+		    	<div class="col-md-9">
+		    		<h4 class="media-heading"><a href="project_detail.php">I need some Text altered, Copied and Designed</a></h4>
+		    		<p>
+				    	Looking for a team to cross reference under 15,000 SKUs and 280 manufactures. On one excel spread. And looking at couple companies website to reference we are lower cost.
+				    </p>
+				    <a href="#">Arts & Crafts</a>, &nbsp;
+	    			<a href="#">Banner Design</a>, &nbsp;
+	    			<a href="#">Graphic Design</a>, &nbsp;
+	    			<a href="#">Illustration</a>, &nbsp;
+	    			<a href="#">Logo Design</a>
+		    	</div>
+		    	<div class="col-md-3 text-right">
+		    		<p><span>4 weeks ago</span></p>
+		    		<p><span>200$</span> | <span>Bids 2</span></p>
+		    		<div><button class="btn btn-sm btn-success">Bid Now</button></div>
+		    	</div>
 		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
-		  </div>
-		</div>
-		<hr />
-		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object img-circle img-thumbnail" src="img/default_avatar_male.jpg" width="100px" style="width:70px;" style="width:70px;" alt="name">
-		    </a>
-		  </div>
-		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Design a pastry shop Logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">4.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star-o" aria-hidden="true"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
-		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
 		  </div>
 		</div>
 		<hr />
@@ -232,86 +200,108 @@
 		    </a>
 		  </div>
 		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
+		    <div class="row">
+		    	<div class="col-md-9">
+		    		<h4 class="media-heading"><a href="#">I need some Text altered, Copied and Designed</a></h4>
+		    		<p>
+				    	Looking for a team to cross reference under 15,000 SKUs and 280 manufactures. On one excel spread. And looking at couple companies website to reference we are lower cost.
+				    </p>
+				    <a href="#">Arts & Crafts</a>, &nbsp;
+	    			<a href="#">Banner Design</a>, &nbsp;
+	    			<a href="#">Graphic Design</a>, &nbsp;
+	    			<a href="#">Illustration</a>, &nbsp;
+	    			<a href="#">Logo Design</a>
+		    	</div>
+		    	<div class="col-md-3 text-center">
+		    		<p><span>4 weeks ago</span></p>
+		    		<p><span>200$</span> | <span>Bids 2</span></p>
+		    		<div class="alert alert-xs alert-warning" role="alert"><strong>Offered</strong></div>
+		    	</div>
 		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
 		  </div>
 		</div>
 		<hr />
 		<div class="media">
 		  <div class="media-left media-top">
 		    <a href="#">
-		      <img class="media-object img-circle img-thumbnail" src="img/default_avatar_male.jpg" width="100px" style="width:70px;" style="width:70px;" alt="name">
+		      <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
 		    </a>
 		  </div>
 		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Design a pastry shop Logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">4.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star-o" aria-hidden="true"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
+		    <div class="row">
+		    	<div class="col-md-9">
+		    		<h4 class="media-heading"><a href="#">I need some Text altered, Copied and Designed</a></h4>
+		    		<p>
+				    	Looking for a team to cross reference under 15,000 SKUs and 280 manufactures. On one excel spread. And looking at couple companies website to reference we are lower cost.
+				    </p>
+				    <a href="#">Arts & Crafts</a>, &nbsp;
+	    			<a href="#">Banner Design</a>, &nbsp;
+	    			<a href="#">Graphic Design</a>, &nbsp;
+	    			<a href="#">Illustration</a>, &nbsp;
+	    			<a href="#">Logo Design</a>
+		    	</div>
+		    	<div class="col-md-3 text-right">
+		    		<p><span>4 weeks ago</span></p>
+		    		<p><span>200$</span> | <span>Bids 2</span></p>
+		    		<div><button class="btn btn-sm btn-success">Bid Now</button></div>
+		    	</div>
 		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
 		  </div>
 		</div>
 		<hr />
 		<div class="media">
 		  <div class="media-left media-top">
 		    <a href="#">
-		      <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" alt="name">
+		      <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
 		    </a>
 		  </div>
 		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
+		    <div class="row">
+		    	<div class="col-md-9">
+		    		<h4 class="media-heading"><a href="#">I need some Text altered, Copied and Designed</a></h4>
+		    		<p>
+				    	Looking for a team to cross reference under 15,000 SKUs and 280 manufactures. On one excel spread. And looking at couple companies website to reference we are lower cost.
+				    </p>
+				    <a href="#">Arts & Crafts</a>, &nbsp;
+	    			<a href="#">Banner Design</a>, &nbsp;
+	    			<a href="#">Graphic Design</a>, &nbsp;
+	    			<a href="#">Illustration</a>, &nbsp;
+	    			<a href="#">Logo Design</a>
+		    	</div>
+		    	<div class="col-md-3 text-right">
+		    		<p><span>4 weeks ago</span></p>
+		    		<p><span>200$</span> | <span>Bids 2</span></p>
+		    		<div><button class="btn btn-sm btn-success">Bid Now</button></div>
+		    	</div>
 		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
+		  </div>
+		</div>
+		<hr />
+		<div class="media">
+		  <div class="media-left media-top">
+		    <a href="#">
+		      <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    </a>
+		  </div>
+		  <div class="media-body">
+		    <div class="row">
+		    	<div class="col-md-9">
+		    		<h4 class="media-heading"><a href="#">I need some Text altered, Copied and Designed</a></h4>
+		    		<p>
+				    	Looking for a team to cross reference under 15,000 SKUs and 280 manufactures. On one excel spread. And looking at couple companies website to reference we are lower cost.
+				    </p>
+				    <a href="#">Arts & Crafts</a>, &nbsp;
+	    			<a href="#">Banner Design</a>, &nbsp;
+	    			<a href="#">Graphic Design</a>, &nbsp;
+	    			<a href="#">Illustration</a>, &nbsp;
+	    			<a href="#">Logo Design</a>
+		    	</div>
+		    	<div class="col-md-3 text-right">
+		    		<p><span>4 weeks ago</span></p>
+		    		<p><span>200$</span> | <span>Bids 2</span></p>
+		    		<div><button class="btn btn-sm btn-success">Bid Now</button></div>
+		    	</div>
+		   	</div>
 		  </div>
 		</div>
 		<hr />

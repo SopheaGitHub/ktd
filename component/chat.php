@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row chat-window col-xs-5 col-md-3" id="chat_window_1" style="margin-left:10px;">
         <div class="col-xs-12 col-md-12" style="padding-right: 0px;">
-        	<div class="panel panel-primary">
+        	<div class="panel panel-success">
                 <div class="panel-heading top-bar">
                     <div class="col-md-8 col-xs-8">
                         <h3 class="panel-title"><span class="glyphicon glyphicon-comment"></span> Chat</h3>
