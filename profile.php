@@ -1,62 +1,7 @@
 <?php include('component/header.php'); ?>
-
-<div class="panel panel-success">
-	<div class="panel-heading">
-		<ol class="breadcrumb">
-			<li><a href="home.php" style="font-size:18px;"><i class="fa fa-arrow-circle-left" aria-hidden="true" title="Go to home page"></i></a></li>
-		  	<li><a href="home.php">Home</a></li>
-		  	<li class="active">Profile ktpcha2</li>
-		</ol>
-	</div>
-	<div class="panel-body" style="margin:0px; padding:2px 10px;">
-		<div class="text-right">
-			<a href="#"><img src="img/user-453533-fdadfd.png" style="width:30px;"></a> &nbsp;&nbsp;&nbsp;
-			<ul class="nav nav-pills pull-right">
-			    <li class="dropdown">
-			        <a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-comment"></span> <span style="position:absolute; top:0;">2</span></a>
-			        <ul class="dropdown-menu">
-			            <li>
-			            	<div style="padding: 10px;">
-			            		<div>New Message</div>
-			            		<div style="height: 50px;">
-
-			            		</div>
-			            		<div class="text-center"><a href="#">See All</a></div>
-			            	</div>
-			            </li>
-			        </ul>
-			    </li>
-			    <li class="dropdown">
-			        <a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-globe"></span> <span style="position:absolute; top:0;">5</span></a>
-			        <ul class="dropdown-menu">
-			            <li>
-			            	<div style="padding: 10px;">
-			            		<div>Notification</div>
-			            		<div style="height: 50px;">
-
-			            		</div>
-			            		<div class="text-center"><a href="#">See All</a></div>
-			            	</div>
-			            </li>
-			        </ul>
-			    </li>
-			    <li class="dropdown">
-			        <a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-triangle-bottom"></span></a>
-			        <ul class="dropdown-menu">
-			            <li><a href="skill.php">Skill</a></li>
-			        	<li><a href="#">About</a></li>
-			            <li class="divider"></li>
-			            <li><a href="#"><i class="fa fa-sign-out"></i> Log Out</a></li>
-			        </ul>
-			    </li>
-			</ul>
-		</div>
-	</div>
-
-
-</div>
-
-<div class="col-md-8 col-sm-offset-2">
+<?php include('component/header_profile_menu.php'); ?>
+<?php include('component/left.php'); ?>
+<div class="col-md-8">
 	<div class="profile clearfix">                         
         <div class="image">
             <img src="img/download.jpg" style="width:100%;" class="img-cover">
@@ -127,6 +72,8 @@ thank you.</p>
         	<?php include_once('component/overview.php'); ?>
       	</div>
 	</div>
-	<br /><br /><br />
+	<br />
 </div>
+<?php include('component/right.php'); ?>
+<?php include('component/chat.php'); ?>
 <?php include('component/footer.php'); ?>

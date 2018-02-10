@@ -95,49 +95,49 @@
 		<br />
 
 		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object" src="img/profile_logo_22207730.jpg" alt="name">
-		    </a>
-		  </div>
-		  <div class="media-body">
-		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
-		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
-		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
-		   	</div>
-		   	<br />
-		   	<p>
-			  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
-			  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
-			</p>
-		   	<br />
-		    <p>
-		    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
-		  	</p>
-		  </div>
+		  	<div class="media-left media-top">
+		    	<a href="#">
+		      		<img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    	</a>
+		  	</div>
+			<div class="media-body">
+			    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
+			    <div>
+			    	<span style="padding: 3px; background:#5cb85c; color:#fff;">5.0</span>&nbsp;
+			    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+			    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+			    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+			    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+			    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>
+			    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
+			    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
+			   	</div>
+			   	<br />
+			   	<p>
+				  <button type="button" class="btn btn-default btn-xs">Graphic Design</button>
+				  <button type="button" class="btn btn-default btn-xs">Logo Design</button>
+				</p>
+			   	<br />
+			    <p>
+			    	“this freelancer is gifted one which as endless ideas i recommend him, and i'll sure hire him again ”
+			  	</p>
+			</div>
 		</div>
 		<hr />
 		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object" src="img/default_avatar_male.jpg" width="100px" alt="name">
-		    </a>
-		  </div>
+		  	<div class="media-left media-top">
+		    	<a href="#">
+		      		<img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    	</a>
+		  	</div>
 		  <div class="media-body">
 		    <h4 class="media-heading"><a href="#">Design a pastry shop Logo</a></h4>
 		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">4.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
+		    	<span style="padding: 3px; background:#5cb85c; color:#fff;">4.0</span>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
 		    	<i class="fa fa-star-o" aria-hidden="true"></i>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
@@ -155,20 +155,20 @@
 		</div>
 		<hr />
 		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object" src="img/profile_logo_22207730.jpg" alt="name">
-		    </a>
-		  </div>
+		  	<div class="media-left media-top">
+		    	<a href="#">
+		      		<img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    	</a>
+		  	</div>
 		  <div class="media-body">
 		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
 		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
+		    	<span style="padding: 3px; background:#5cb85c; color:#fff;">5.0</span>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
 		   	</div>
@@ -185,19 +185,19 @@
 		</div>
 		<hr />
 		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object" src="img/default_avatar_male.jpg" width="100px" alt="name">
-		    </a>
-		  </div>
+		  	<div class="media-left media-top">
+		    	<a href="#">
+		      		<img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    	</a>
+		  	</div>
 		  <div class="media-body">
 		    <h4 class="media-heading"><a href="#">Design a pastry shop Logo</a></h4>
 		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">4.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
+		    	<span style="padding: 3px; background:#5cb85c; color:#fff;">4.0</span>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
 		    	<i class="fa fa-star-o" aria-hidden="true"></i>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
@@ -215,20 +215,20 @@
 		</div>
 		<hr />
 		<div class="media">
-		  <div class="media-left media-top">
-		    <a href="#">
-		      <img class="media-object" src="img/profile_logo_22207730.jpg" alt="name">
-		    </a>
-		  </div>
+		  	<div class="media-left media-top">
+		    	<a href="#">
+		      		<img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:70px;" style="width:70px;" alt="name">
+		    	</a>
+		  	</div>
 		  <div class="media-body">
 		    <h4 class="media-heading"><a href="#">Arabic and English App modern logo</a></h4>
 		    <div>
-		    	<span style="padding: 3px; background:red; color:#fff;">5.0</span>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>&nbsp;
-		    	<i class="fa fa-star" aria-hidden="true" style="color:red;"></i>
+		    	<span style="padding: 3px; background:#5cb85c; color:#fff;">5.0</span>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>&nbsp;
+		    	<i class="fa fa-star" aria-hidden="true" style="color:#5cb85c;"></i>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>200$</span>
 		    	&nbsp;&nbsp;| &nbsp;&nbsp;<span>4 weeks ago.</span>
 		   	</div>
@@ -244,6 +244,25 @@
 		  </div>
 		</div>
 		<hr />
+		<nav aria-label="Page navigation" class="text-right">
+		  <ul class="pagination" style="margin:0px;">
+		    <li>
+		      <a href="#" aria-label="Previous">
+		        <span aria-hidden="true">&laquo;</span>
+		      </a>
+		    </li>
+		    <li class="active"><a href="#">1</a></li>
+		    <li><a href="#">2</a></li>
+		    <li><a href="#">3</a></li>
+		    <li><a href="#">4</a></li>
+		    <li><a href="#">5</a></li>
+		    <li>
+		      <a href="#" aria-label="Next">
+		        <span aria-hidden="true">&raquo;</span>
+		      </a>
+		    </li>
+		  </ul>
+		</nav>
 	</div>
 	<div class="col-md-3">
 		<div class="panel panel-default">

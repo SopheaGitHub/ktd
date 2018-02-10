@@ -18,35 +18,35 @@
 	    			<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">First Name</label>
 				    <div class="col-sm-9">
-				      <input type="text" class="form-control"  placeholder="First Name" autofocus>
+				      <input type="text" class="form-control"  placeholder="First Name" autofocus />
 				    </div>
 				  	</div>
 
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Last Name</label>
 				    <div class="col-sm-9">
-				      <input type="text" class="form-control"  placeholder="Last Name" autofocus>
+				      <input type="text" class="form-control"  placeholder="Last Name" />
 				    </div>
 				  	</div>
 
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Phone Number Or Email</label>
 				    <div class="col-sm-9">
-				      <input type="email" class="form-control"  placeholder="Phone Number Or Email" autofocus>
+				      <input type="email" class="form-control"  placeholder="Phone Number Or Email" />
 				    </div>
 				  	</div>
 
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Password</label>
 				    <div class="col-sm-9">
-				      <input type="password" class="form-control" placeholder="Password">
+				      <input type="password" class="form-control" placeholder="Password" />
 				    </div>
 				  	</div>
 
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Confirm Password</label>
 				    <div class="col-sm-9">
-				      <input type="password" class="form-control" placeholder="Confirm Password">
+				      <input type="password" class="form-control" placeholder="Confirm Password" />
 				    </div>
 				  	</div>
 
@@ -54,7 +54,7 @@
 	                    <div class="col-md-9 col-md-offset-3">
 	                        <div class="checkbox">
 	                            <label>
-	                                <input type="checkbox" name="remember"> <a href="#" data-toggle="modal" data-target="#myModal">Accept Policy</a>
+	                                <input type="checkbox" name="remember" /> <a href="#" data-toggle="modal" data-target="#myModal">Accept Policy</a>
 	                            </label>
 	                        </div>
 	                    </div>

@@ -17,13 +17,13 @@
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Email</label>
 				    <div class="col-sm-9">
-				      <input type="email" class="form-control" placeholder="Email" autofocus>
+				      <input type="email" class="form-control" placeholder="Email" autofocus />
 				    </div>
 				  	</div>
 				  	<div class="form-group">
 				    <label for="" class="col-sm-3 control-label">Password</label>
 				    <div class="col-sm-9">
-				      <input type="password" class="form-control"  placeholder="Password">
+				      <input type="password" class="form-control"  placeholder="Password" />
 				    </div>
 				  	</div>
 				  	<div class="form-group">

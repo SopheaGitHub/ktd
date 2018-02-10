@@ -54,7 +54,7 @@
 				  	</div>
 
 				  	<div class="form-group">
-					    <label for="" class="col-sm-3 control-label">Price Per Hour</label>
+					    <label for="" class="col-sm-3 control-label">Bubget</label>
 					    <div class="col-sm-9">
 					      	<div class="row">
 						      	<div class="col-md-4">

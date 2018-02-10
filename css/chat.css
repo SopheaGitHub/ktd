@@ -68,7 +68,7 @@
     display: flex;
 }
 img {
-    display: block;
+    /*display: block;*/
     width: 100%;
 }
 .avatar {

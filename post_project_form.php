@@ -18,7 +18,7 @@
 	    			<div class="form-group">
 				    <label for="" class="col-sm-4 control-label">Enter a name for your project</label>
 				    <div class="col-sm-8">
-				      <input type="text" class="form-control"  placeholder="e.g. Design a logo for me" autofocus>
+				      <input type="text" class="form-control"  placeholder="e.g. Design a logo for me" autofocus />
 				    </div>
 				  	</div>
 
@@ -32,14 +32,14 @@
 				  	<div class="form-group">
 				    <label for="" class="col-sm-4 control-label">Upload file</label>
 				    <div class="col-sm-8">
-				      	<input type="file" class="form-control">
+				      	<input type="file" class="form-control" />
 				    </div>
 				  	</div>
 
 				  	<div class="form-group">
 		              	<label for="input-skill" class="col-sm-4 control-label"><span data-toggle="tooltip" title="">What skills are required?</span></label>
 		              	<div class="col-sm-8">
-					      	<input type="text" name="skill" value="" placeholder="What skills are required?" id="input-skill" class="form-control" autocomplete="off"><ul class="dropdown-menu"></ul>
+					      	<input type="text" name="skill" value="" placeholder="What skills are required?" id="input-skill" class="form-control" autocomplete="off" /><ul class="dropdown-menu"></ul>
 			              	<div id="post-skill" class="well well-sm" style="height: 80px; overflow: auto;">
 			                </div>
 					    </div>

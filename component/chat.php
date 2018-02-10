@@ -14,7 +14,7 @@
                 <div class="panel-body msg_container_base" style="padding-top:10px;">
                     <div class="media user-chat-box">
                       <div class="media-left media-top">
-                        <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
+                        <img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
                       </div>
                       <div class="media-body">
                         <div class="media-name">
@@ -27,7 +27,7 @@
                     </div>
                     <div class="media user-chat-box">
                       <div class="media-left media-top">
-                        <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
+                        <img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
                       </div>
                       <div class="media-body">
                         <div class="media-name">
@@ -40,7 +40,7 @@
                     </div>
                     <div class="media user-chat-box">
                       <div class="media-left media-top">
-                        <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
+                        <img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
                       </div>
                       <div class="media-body">
                         <div class="media-name">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="media user-chat-box">
                       <div class="media-left media-top">
-                        <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
+                        <img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
                       </div>
                       <div class="media-body">
                         <div class="media-name">
@@ -66,7 +66,7 @@
                     </div>
                     <div class="media user-chat-box">
                       <div class="media-left media-top">
-                        <img class="media-object img-circle img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
+                        <img class="media-object img-thumbnail" src="img/profile_logo_22207730.jpg" style="width:50px;" alt="name">
                       </div>
                       <div class="media-body">
                         <div class="media-name">
@@ -79,7 +79,7 @@
                     </div>
                 </div>
                 <div class="panel-footer" style="background-color: #f5f8fa;">
-                    <input id="btn-input iconified" type="text" class="form-control input-sm chat_input search" id="iconified" placeholder="&#xF002; Search ..." />
+                    <input id="btn-input iconified" type="text" class="form-control input-sm chat_input search" placeholder="&#xF002; Search ..." />
                 </div>
     		</div>
         </div>
