@@ -221,3 +221,12 @@ ol, ul {
 .input-group-addon {
   cursor: pointer;
 }
+
+table thead tr {
+  font-size: 12px;
+  background: #f5f8fa;
+}
+
+table tbody tr {
+  font-size: 12px;
+}

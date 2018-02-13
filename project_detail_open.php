@@ -13,7 +13,7 @@
 	    	<div class="col-md-8">
 	    		<div class="row">
 	    			<div class="col-md-8">
-	    				<strong>I need some Text alte#5cb85c, Copied and Designed</strong>
+	    				<strong>I need some Text altered, Copied and Designed</strong>
 	    			</div>
 	    			<div class="col-md-2">
 	    				Project ID: #16265735
@@ -46,7 +46,7 @@
 	    				</tr>
 	    			</tbody>
 	    		</table>
-	    		<h5>Requi#5cb85c Skills</h5>
+	    		<h5>Required Skills</h5>
 	    		<div>
 	    			<a href="#" class="btn btn-xs btn-default">Arts & Crafts</a>
 	    			<a href="#" class="btn btn-xs btn-default">Banner Design</a>
@@ -82,7 +82,10 @@
 	    		<p><strong>Avg Bid:</strong> $50</p>
 	    		<p><strong>Biding:</strong> 2</p>
 	    		<hr />
-	    		<a href="#" class="btn btn-sm btn-success" data-toggle="modal" data-target="#myModal">Bid On This Project Now</a>
+	    		<div>
+	    			<span><a href="#" class="btn btn-sm btn-success" data-toggle="modal" data-target="#myModal">Bid On This Project Now</a></span>
+			   		<button class="btn btn-sm btn-success">Close This Project</button>
+			   	</div>
 	    	</div>
 	    </div>
 	</div>
@@ -108,7 +111,7 @@
 		                    </div>
 		                    <br />
 				    		<p>
-						    	Hello student, as an experienced freelancer I placed a bid on your project because I have the expertise requi#5cb85c to deliver superior quality. I am reliable, and I assure you constant updates in the project as a way of revising it until its to your satisfaction. I assure you zero plagiarism and A+ grade for the project. I look forward to your response. Good luck!
+						    	Hello student, as an experienced freelancer I placed a bid on your project because I have the expertise Required to deliver superior quality. I am reliable, and I assure you constant updates in the project as a way of revising it until its to your satisfaction. I assure you zero plagiarism and A+ grade for the project. I look forward to your response. Good luck!
 						    </p>
 						    <div>
 		                    	<span><a href="#">Chat</a></span> | <span><a href="profile.php">View Profile</a></span>

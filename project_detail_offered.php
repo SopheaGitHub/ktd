@@ -82,7 +82,9 @@
 	    		<p><strong>Avg Bid:</strong> $50</p>
 	    		<p><strong>Biding:</strong> 2</p>
 	    		<hr />
-	    		<a href="#" class="btn btn-sm btn-default" disabled>Bid On This Project Now</a>
+	    		<div>
+	    			<span><a href="#" class="btn btn-sm btn-default" disabled>Bid On This Project Now</a></span>
+			   	</div>
 	    	</div>
 	    </div>
 	</div>
@@ -128,6 +130,10 @@
 						   	<br />
 						   	<div class="alert alert-xs alert-warning text-left" role="alert">
 						   		<i style="font-size:20px; color:#5cb85c;" class="zmdi zmdi-check-circle"></i> Get offered by project owner
+						   	</div>
+						   	<br />
+						   	<div>
+						   		<button class="btn btn-sm btn-success">Cancel Offer</button>
 						   	</div>
 				    	</div>
 				   	</div>
